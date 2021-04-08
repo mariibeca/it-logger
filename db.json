@@ -1,18 +1,18 @@
 {
   "logs": [
     {
-      "message": "installing new wifi ",
-      "attention": true,
-      "tech": "John Doe",
-      "date": "2021-04-08T16:44:55.957Z",
-      "id": 1
-    },
-    {
       "message": "error on network 112",
       "attention": false,
       "tech": "Sara Wilson",
       "date": "2021-04-08T16:49:28.751Z",
       "id": 2
+    },
+    {
+      "id": 3,
+      "message": "prueba",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2021-04-08T22:58:07.405Z"
     }
   ],
   "techs": [
